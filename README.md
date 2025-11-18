@@ -16,7 +16,9 @@ The workflow performs:
 # 1. How to Run the Workflow
 Step 1 — Open the Workflow
 
-Click the Opus workflow link provided by the author.
+Click the Opus workflow link provided.
+
+	https://app.opus.com/app/workflow/share/5f97a18e-be9c-4887-894e-cfda6b844748
 
 Click “Add to Workspace” or “Duplicate Workflow” into your own Opus workspace.
 
